@@ -1,4 +1,4 @@
-# Hey there, I'm [Evan Kelty]! 👋
+# Hey there, I'm Evan Kelty! 👋
  
 I'm a cybersecurity and computer science student interested in programming and web development.
 I'm currently building my skills by working on projects using Python, HTML, and CSS.
@@ -38,7 +38,7 @@ a program with a practical, real-world use.
  
 ### 🍎 Apple vs. Windows Website 🪟
  
-My first web development project comparing Apple and Windows computers. I am
+My first web development project compared Apple and Windows computers. I am
 building this website while learning the fundamentals of HTML and CSS.
  
 The project allows me to practice creating webpages, organizing content, styling
